@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+#hr1{
+    border: 8px solid black;
+   
+}
+
+.images{
+    text-align: center;
+}
+#hr2{
+    border: 8px solid black;
+}
+#header1{
+    font-family: 'Arial';
+    color: red;
+    font-size: 30px;
+}
+#header2{
+    font-family: 'Arial';
+    font-size: 30px;
+}
+#header3{
+    font-size: 15px;
+    background-color: #87cefa;
+    font-family: 'Arial';
+}
+#hr3{
+    border: 8px solid black;
+}
+
+#p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 800;
+    color: rgb(255, 0, 212);
+}
+#h5 {
+    font-family: 'Arial';
+}
+
+#h6 {
+        font-family: 'Arial';
+        color: #439443;
+        border: 2px solid #a0a068;
+        text-decoration: underline;
+}
+
+#h7 {
+    font-family: Arial;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 45px;
+    color: #ff6347;
+    background-color: #6a5acd;
+}
